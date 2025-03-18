@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mysteriouswebsite/static/css/main.dc4d6ff2.css",
+    "main.js": "/mysteriouswebsite/static/js/main.f1346a47.js",
+    "static/js/787.be19faf3.chunk.js": "/mysteriouswebsite/static/js/787.be19faf3.chunk.js",
+    "index.html": "/mysteriouswebsite/index.html",
+    "main.dc4d6ff2.css.map": "/mysteriouswebsite/static/css/main.dc4d6ff2.css.map",
+    "main.f1346a47.js.map": "/mysteriouswebsite/static/js/main.f1346a47.js.map",
+    "787.be19faf3.chunk.js.map": "/mysteriouswebsite/static/js/787.be19faf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.f1346a47.js"
+  ]
+}
